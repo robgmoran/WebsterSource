@@ -1,0 +1,25 @@
+FriendlyID2450:		dw	FriendlySprType
+		db	10, 0
+		dw	224, 96
+FriendlyID2459:		dw	FriendlySprType
+		db	10, 0
+		dw	432, 512
+FriendlyID2469:		dw	FriendlySprType
+		db	30, 0
+		dw	512, 144
+FriendlyID2470:		dw	FriendlySprType
+		db	30, 0
+		dw	512, 240
+FriendlyID2495:		dw	FriendlySprType
+		db	10, 0
+		dw	112, 480
+FriendlyID2499:		dw	FriendlySprType
+		db	10, 0
+		dw	384, 368
+FriendlyID2502:		dw	FriendlySprType
+		db	10, 0
+		dw	256, 432
+FriendlyID2503:		dw	FriendlySprType
+		db	10, 0
+		dw	112, 272
+

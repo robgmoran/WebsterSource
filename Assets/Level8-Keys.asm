@@ -1,0 +1,19 @@
+KeyID4161:		dw	Key1SprType
+		dw	672, 112
+KeyID4170:		dw	Key1SprType
+		dw	880, 208
+KeyID4184:		dw	Key1SprType
+		dw	432, 368
+KeyID4239:		dw	Key1SprType
+		dw	912, 512
+KeyID4256:		dw	Key1SprType
+		dw	640, 352
+KeyID4346:		dw	Key1SprType
+		dw	640, 656
+KeyID4365:		dw	Key1SprType
+		dw	320, 592
+KeyID4368:		dw	Key1SprType
+		dw	192, 304
+KeyID4384:		dw	Key1SprType
+		dw	208, 352
+

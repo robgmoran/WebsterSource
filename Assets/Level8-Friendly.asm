@@ -1,0 +1,28 @@
+FriendlyID3866:		dw	FriendlySprType
+		db	20, 0
+		dw	128, 48
+FriendlyID3875:		dw	FriendlySprType
+		db	20, 0
+		dw	256, 176
+FriendlyID3876:		dw	FriendlySprType
+		db	20, 0
+		dw	256, 48
+FriendlyID3877:		dw	FriendlySprType
+		db	20, 0
+		dw	128, 176
+FriendlyID4252:		dw	FriendlySprType
+		db	10, 1
+		dw	720, 256
+FriendlyID4253:		dw	FriendlySprType
+		db	10, 1
+		dw	752, 464
+FriendlyID4254:		dw	FriendlySprType
+		db	10, 1
+		dw	528, 464
+FriendlyID4255:		dw	FriendlySprType
+		db	10, 1
+		dw	528, 320
+FriendlyID4364:		dw	FriendlySprType
+		db	10, 0
+		dw	320, 528
+
