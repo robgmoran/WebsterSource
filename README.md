@@ -27,7 +27,7 @@ Also you might be interested in the full source code and assets for my ZX Spectr
 
 Source - https://github.com/robgmoran/DougieDoSource
 
-Game - https://robgm.itch.io/dougie-do
+Game available at - https://robgm.itch.io/dougie-do
 
 Enjoy,
 
