@@ -15,6 +15,8 @@ Music - Darryl Sloan - https://www.youtube.com/@darrylsloan
 
 Sprites - Emcee Flesher - https://opengameart.org/users/emcee-flesher
 
+Box Art Files - https://www.youtube.com/@BAPSTARCADE
+
 If you have any questions or comments, I can be contacted via:
 
 Email: robert_g_moran@yahoo.com
