@@ -1,0 +1,37 @@
+FriendlyID1747:		dw	FriendlySprType
+		db	60, 0
+		dw	432, 256
+FriendlyID1748:		dw	FriendlySprType
+		db	60, 0
+		dw	656, 256
+FriendlyID1749:		dw	FriendlySprType
+		db	60, 0
+		dw	432, 448
+FriendlyID1750:		dw	FriendlySprType
+		db	60, 0
+		dw	656, 448
+FriendlyID1751:		dw	FriendlySprType
+		db	60, 0
+		dw	736, 384
+FriendlyID1752:		dw	FriendlySprType
+		db	60, 0
+		dw	896, 384
+FriendlyID1753:		dw	FriendlySprType
+		db	60, 0
+		dw	208, 32
+FriendlyID1754:		dw	FriendlySprType
+		db	60, 0
+		dw	240, 32
+FriendlyID1755:		dw	FriendlySprType
+		db	60, 0
+		dw	464, 608
+FriendlyID1756:		dw	FriendlySprType
+		db	60, 0
+		dw	496, 576
+FriendlyID1757:		dw	FriendlySprType
+		db	60, 0
+		dw	528, 608
+FriendlyID1758:		dw	FriendlySprType
+		db	60, 0
+		dw	496, 640
+
